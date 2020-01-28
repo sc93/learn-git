@@ -1,0 +1,20 @@
+git init
+
+git status
+
+git add
+
+git commit
+ - a
+ - m
+git log
+ - graph
+ - branch
+ - oneline
+git remote
+ 
+git push
+ - git push -u origin master
+git pull
+ - git push origin master
+
